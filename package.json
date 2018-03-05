@@ -2,9 +2,8 @@
 	"name": "little-bear",
 	"version": "0.1.0",
 	"private": false,
-	"homepage": "https://cerberus.github.io/little-bear/",
+	"homepage": "https://cerberus.github.io/little-bear",
 	"dependencies": {
-		"free-google-image-search": "^1.0.0",
 		"gh-pages": "^1.1.0",
 		"material-ui": "^1.0.0-beta.35",
 		"react": "^16.2.0",

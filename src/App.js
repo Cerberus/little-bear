@@ -1,6 +1,6 @@
 import { Button, AppBar, Toolbar } from 'material-ui'
 import { compose, withState, lifecycle, withHandlers } from 'recompose'
-import ImageSearch from 'free-google-image-search'
+import ImageSearch from './GIS'
 import React from 'react'
 import styled from 'styled-components'
 
